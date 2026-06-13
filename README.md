@@ -60,7 +60,7 @@ This template implements the methodology proposed in the following paper, which 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-
-- **Joonhyuk Park** — Korea University, School of Cybersecurity (peter990527@korea.ac.kr)
+- **Seungjoo Kim (Corresponding Author)** — Professor, Korea University, School of Cybersecurity (skim71@korea.ac.kr)
+- **Joonhyuk Park (First author)** — M.S. course, Korea University, School of Cybersecurity (peter990527@korea.ac.kr)
 - **Our Lab** — [Security Automation aNd Engineering Lab (SANE Lab)](https://sites.google.com/view/seceng/home)
 - **Link to short Survey** - https://docs.google.com/forms/d/e/1FAIpQLSd6thG28_vddNuhwQ77xjJSMZ-slffw31CyKSXNZqogMCmdSw/viewform?usp=header
